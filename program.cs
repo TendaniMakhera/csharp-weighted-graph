@@ -4,11 +4,14 @@
     {
         Graph graph = new Graph();
 
-        graph.AddEdge(1, 2, 5);
-        graph.AddEdge(1, 3, 10);
-        graph.AddEdge(2, 3, 3);
-        graph.AddEdge(3, 4, 2);
+        // Load graph from text file
+        graph.LoadFromFile("graph.txt");
 
         graph.Display();
+
+        // QUESTION 2 Traversals
+        graph.DepthFirstTraversal(1);
+        graph.BreadthFirstTraversal(1);
     }
 }
+

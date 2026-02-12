@@ -12,3 +12,4 @@ C:\Users\Admin\OneDrive\Desktop\GraphProject\obj\Debug\net10.0\refint\GraphProje
 C:\Users\Admin\OneDrive\Desktop\GraphProject\obj\Debug\net10.0\GraphProject.pdb
 C:\Users\Admin\OneDrive\Desktop\GraphProject\obj\Debug\net10.0\GraphProject.genruntimeconfig.cache
 C:\Users\Admin\OneDrive\Desktop\GraphProject\obj\Debug\net10.0\ref\GraphProject.dll
+C:\Users\Admin\OneDrive\Desktop\GraphProject\obj\Debug\net10.0\GraphProject.sourcelink.json
